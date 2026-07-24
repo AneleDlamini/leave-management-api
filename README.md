@@ -62,7 +62,7 @@ This project demonstrates REST API development, layered application architecture
 | Maven | Dependency Management & Build Tool |
 | Swagger / OpenAPI | API Documentation |
 | JUnit 5 | Unit Testing |
-| H2 Database *(or PostgreSQL if applicable)* | Database |
+| H2 Database | Database |
 
 ---
 
