@@ -47,7 +47,7 @@ This project demonstrates REST API development, layered application architecture
 
 ### API Documentation
 
-- Interactive API documentation using Swagger/OpenAPI
+- Interactive API documentation using Swagger
 
 ---
 
@@ -60,7 +60,7 @@ This project demonstrates REST API development, layered application architecture
 | Spring Security | Authentication & Role-based Authorization |
 | Spring Data JPA | Data Persistence |
 | Maven | Dependency Management & Build Tool |
-| Swagger / OpenAPI | API Documentation |
+| Swagger | API Documentation |
 | JUnit 5 | Unit Testing |
 | H2 Database | Database |
 
@@ -198,5 +198,5 @@ This project strengthened my understanding of:
 - Applying business rules and validation
 - Role-based security using Spring Security
 - Writing maintainable unit tests
-- Documenting APIs with Swagger/OpenAPI
+- Documenting APIs with Swagger
 - Building production-style backend applications
